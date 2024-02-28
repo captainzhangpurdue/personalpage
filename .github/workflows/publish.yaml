@@ -50,8 +50,7 @@ jobs:
           HUGO_ENVIRONMENT: production
         run: |
           echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-#hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-          hugo --minify --baseURL "./"
+          hugo --minify --baseURL ./
       - name: Upload public directory as artifact
         uses: actions/upload-artifact@v2
         with:
@@ -62,7 +61,8 @@ jobs:
         with:
           path: ./public
 
-
+  #hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        
   # Deploy website to GitHub Pages hosting
   deploy:
     if: github.repository_owner != 'HugoBlox'
