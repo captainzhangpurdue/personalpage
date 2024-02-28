@@ -142,9 +142,25 @@ sections:
           organization: NSF
           organization_url: https://www.nsf.gov/
           title: 'Principled Co-Reasoning of Software and Natural-Language Artifacts'							
-        
+        - date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
     design:
-      columns: '1'
+      columns: '2'
   - block: collection
     id: posts
     content:
