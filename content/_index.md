@@ -100,6 +100,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_start: '2021-07-12'
+          date_end: ''
           description: |2-
             As part of the DARPA V-SPELLS program, this project aims to automate domain specific program analysis. There are inherently hard challenges in general program analysis, such as handling pointers, indirect calls, constructing loop invariants, and decompilation, despite the steady progress the community has been making. Fuzzing techniques and bug finding tools are still limited to finding low level bugs such as memory bugs, and formal methods often require substantial human efforts to translate domain specific and application specific properties down to annotations to implementation artifacts. The project focuses on lifting implementation to post hoc domain specific models, providing a new perspective to these hard problems. Instead of dealing with the low level implementation details, we abstract them away such that their high-level semantics become clean and easy to reason. With lifted domain models, domain specific properties can be easily checked. This allows existing fuzzers to find complex logical bugs, formal methods can be substantially simplified and automated. We are interested in lifting implementations in various domains such as parsers, network protocols, robotic systems, smart contracts, and even binary executables.
 
@@ -107,9 +108,17 @@ sections:
           organization: DARPA
           organization_url: https://www.darpa.mil
           title: Program Analysis for Domain Specific Language Extraction of Legacy Software							
-          
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - date_start: '2020-07-30'
+          description: |2-
+            As part of the IARPA TrojAI program, this project aims to develop techniques to scan backdoors injected into AI models of varius modalities such as Computer Vision, Object Detection, Natural Language Processing, and Cyber Security. AI backdoor attacks leverage vulnerabilities in pre-trained models such that inputs stamped with a specific (small) input pattern (e.g., a polygon patch) or undergone some fixed transformation (e.g., applying a filter) induce intended model misbehaviors, such as misclassification to a  target label. The misbehavior-inducing input patterns/transformations are called backdoor triggers. The vulnerabilities are usually injected through various data poisoning methods. Some even naturally exist in normally trained models. The attack model of AI backdoors becomes increasingly similar to that of traditional cyber attacks (on software), and in the meantime AI models have more and more applications in critical tasks such as autonomous driving and ID recognition (for access control). Defending model backdoors hence becomes a pressing need. In this project, we develop novel analytic techniques to scan AI models for Trojans. Our approach analyzes inner neuron behaviors by determining how output activations change when we introduce different stimulations to a neuron. This is analogous to _Electrical Brain Stimulation_ (EBS), a technique invented in the 19th century, and widely used ever since to study the functionalities/behaviors of human/animal brain neurons. EBS applies an electrical current of various strength to stimulate selected neurons, and then observes the external behavior, such as happiness or aversive reactions. Hence, we call our technique _Artificial Brain Stimulation_ (ABS).
+
+            TrojAI is a competition based program. Competitions are organized in rounds, each having a different focus such as Computer Vision (CV), Natural Language Processing (NLP), and Object Detection. In each round, hundreds of AI models are provided with half of them containing trojans. Performers are supposed identify the trojaned models. Team performance is recorded by a public leaderboard. A round ends once any team has reached the round target (and won the round), and the next round often starts immediately. Our team has been having top performance in the past three years (please refer to the [TrojAI leaderboard](https://pages.nist.gov/trojai/)
+          icon: iarpa
+          organization: IARPA
+          organization_url: https://www.iarpa.gov/
+          title: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation/Trojai							
+							
+        - date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           icon: edx
