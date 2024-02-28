@@ -134,25 +134,17 @@ sections:
           organization: NSF
           organization_url: https://www.nsf.gov/
           title: 'AI Model Debugging by Analyzing Model Internals with Python Program Analysis'							
-        - date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        - date_start: '2019-07-15'
+          date_end: 'present'
+          description: |2-
+            The goal of that project is to develop principled co-analysis of code and natural language (NL) artifacts, including code comments, change logs, manual pages, constant strings in code, and variable and function names. That proposed research treats NL artifacts as first-class objects, instead of simple sources for additional information, to take full advantage of software NL artifacts. For example, a comment made by the developer at a code location can be propagated to other correlated code locations to help understanding and maintenance. 
+          icon: nsf
+          organization: NSF
+          organization_url: https://www.nsf.gov/
+          title: 'Principled Co-Reasoning of Software and Natural-Language Artifacts'							
+        
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: posts
     content:
