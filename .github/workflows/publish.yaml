@@ -61,7 +61,7 @@ jobs:
         with:
           path: ./public
   #hugo --minify --baseURL /homes/xyzhang/test
-  #hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+  #hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" #Xiangyu: need to change this to set the base
         
   # Deploy website to GitHub Pages hosting
   deploy:
