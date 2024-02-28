@@ -126,6 +126,14 @@ sections:
           organization: ONR
           organization_url: https://www.nre.navy.mil/
           title: 'On-the-fly Cyber Crime Scene Transcription'							
+        - date_start: '2019-10-1'
+          date_end: ''
+          description: |2-
+            Just like software inevitably contains bugs and software debugging is a key step in software development, AI models may have undesirable behaviors, which we call model bugs, and model debugging IS an essential step in intelligent software engineering. Model bugs are different from traditional coding bugs. They are misconducts in the model engineering process, such as biased training data and problematic model structure, that lead to undesirable consequences such as low model accuracy and vulnerabilities to adversarial sample attacks, in which normal inputs are mutated (e.g., by perturbations not human perceptible) to induce mis-classification. We observe that AI models, especially neural network models, are essentially programs (e.g., in Python) that compute state variable values (called _neurons_) through multiple program phases (called _layers_). The values of neurons in a layer are computed from those of the previous layer through matrix multiplication and activation function, which is some kind of thresholding function to determine if values shall be used in the computation of next layer (called _neuron activated_). Intuitively, each neuron is considered denoting some abstract feature(s). The computation from a layer to the next is a further step of feature abstraction. The knowledge acquired in training is encoded in the weight values of the matrices. As such, _AI model debugging can substantially benefit from analyzing these programs and their execution states_. Hence, we propose to learn from the substantial experience of software debugging that is built up by the software engineering and program analysis community over decades of intensive research and develop novel analyses to inspect model internals for diagnosis and repair of model defects.
+           icon: nsf
+          organization: NSF
+          organization_url: https://www.nsf.gov/
+          title: 'AI Model Debugging by Analyzing Model Internals with Python Program Analysis'							
         - date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
