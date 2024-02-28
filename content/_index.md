@@ -114,7 +114,8 @@ sections:
 
             TrojAI is a competition based program. Competitions are organized in rounds, each having a different focus such as Computer Vision (CV), Natural Language Processing (NLP), and Object Detection. In each round, hundreds of AI models are provided with half of them containing trojans. Performers are supposed identify the trojaned models. Team performance is recorded by a public leaderboard. A round ends once any team has reached the round target (and won the round), and the next round often starts immediately. Our team has been having top performance in the past three years (please refer to the [TrojAI leaderboard](https://pages.nist.gov/trojai/)
           icon: iarpa
-          organization: IARPA
+          
+          organization: IARPA 
           organization_url: https://www.iarpa.gov/
           title: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation
 				- date_start: '2021-07-12'
