@@ -135,7 +135,7 @@ sections:
           organization_url: https://www.nsf.gov/
           title: 'AI Model Debugging by Analyzing Model Internals with Python Program Analysis'							
         - date_start: '2019-07-15'
-          date_end: 'present'
+          date_end: ''
           description: |2-
             The goal of that project is to develop principled co-analysis of code and natural language (NL) artifacts, including code comments, change logs, manual pages, constant strings in code, and variable and function names. That proposed research treats NL artifacts as first-class objects, instead of simple sources for additional information, to take full advantage of software NL artifacts. For example, a comment made by the developer at a code location can be propagated to other correlated code locations to help understanding and maintenance. 
           icon: nsf
