@@ -116,7 +116,8 @@ sections:
           icon: iarpa
           organization: IARPA 
           #organization_url: https://www.iarpa.gov/
-          title: Scanning AI Models for Backdoors by Artificial Brain Simulation
+          title: AA
+          #title: Scanning AI Models for Backdoors by Artificial Brain Simulation
         - date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
