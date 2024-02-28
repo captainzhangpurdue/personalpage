@@ -116,7 +116,7 @@ sections:
           icon: iarpa
           organization: IARPA 
           organization_url: https://www.iarpa.gov/
-          title: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation
+          title: Scanning AI Models for Backdoors by Artificial Brain Simulation
 				- date_start: '2021-07-12'
           date_end: ''
           description: |2-
