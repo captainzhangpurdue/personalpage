@@ -247,13 +247,43 @@ sections:
       subtitle: ''
       text: |2-
         # Current Students
+          - [Guanhong Tao](https://www.cs.purdue.edu/homes/taog/) (expected 2024, on market :fire:)
+          - [Zhiyuan Cheng](https://github.com/Bob-cheng) (expected 2024)
+          - [Shengwei An](https://www.cs.purdue.edu/homes/an93/) (expected 2025)
+          - [Le Yu](https://www.cs.purdue.edu/homes/yu759/) (expected 2025)
           - Sayali Kate 
           - Yi Sun   
-          - [Le Yu](https://www.cs.purdue.edu/homes/yu759/)
-          - [Guanhong Tao](https://www.cs.purdue.edu/homes/taog/) (on market :fire:)
+          - Yu Shi
+          - Guangyu Shen
+          - Xuwei Liu
+          - Yunshu Mao
+          - [Shiyuan Cheng](https://www.cs.purdue.edu/homes/cheng535/)
+          - [Frank Feng](https://www.cs.purdue.edu/homes/feng292/)
+          - [Xiangzhe Xu](https://xz-x.github.io/)
+          - [Kaiyuan Zhang](https://kaiyuanzhang.com/) (co-advised with Ninghui Li)
+          - [Xuan Chen](https://www.xuanchen.me/)
+          - [Lu Yan](https://lunaryan.github.io/)
+          - Mingwei Zheng
+          - Zhou Xuan
+          - [Hanxi Guo](https://hanxiguo.me/)
           - Syed Yusuf Ahmed 
           - Xiaolong Jin  
-          - Jiasheng Jiang  (start spring 2024) 
+          - Jiasheng Jiang  
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     design:
       columns: '1'
