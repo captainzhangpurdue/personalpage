@@ -232,12 +232,35 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      
   - block: markdown
     content:
       title: Gallery
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |2-
+        {{< raw >}}
+        \begin{table}[h]
+        \centering
+        \begin{tabular}{|c|c|c|}
+        \hline
+        Column 1 & Column 2 & Column 3 \\
+        \hline
+        Row 1 & Data 1 & Data 2 \\
+        Row 2 & Data 3 & Data 4 \\
+        \hline
+        \end{tabular}
+        \caption{My LaTeX Table}
+        \label{tab:mytable}
+        \end{table}
+        {{< /raw >}}
     design:
       columns: '1'
   - block: collection
@@ -262,7 +285,7 @@ sections:
       
     design:
       columns: '2'
-      view: citation
+      #view: citation
   - block: collection
     id: talks
     content:
