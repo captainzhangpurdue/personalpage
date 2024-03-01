@@ -247,8 +247,14 @@ sections:
       subtitle: ''
       text: |2-
         # Current Students
+          - Sayali Kate 
+          - Yi Sun   
+          - [Le Yu](https://www.cs.purdue.edu/homes/yu759/)
+          - [Guanhong Tao](https://www.cs.purdue.edu/homes/taog/) (on market :fire:)
+          - Syed Yusuf Ahmed 
+          - Xiaolong Jin  
           - Jiasheng Jiang  (start spring 2024) 
-          - Syed Yusuf Ahmed  (start fall 2023) 
+
     design:
       columns: '1'
   - block: collection
