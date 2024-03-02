@@ -279,16 +279,23 @@ sections:
           - [Fei Wang](https://scholar.google.com/citations?user=5Z_irhQAAAAJ&hl=en),  2021 PhD graduation,  **Research Scientist at Meta**
           - [Dohyeong Kim](https://scholar.google.com/citations?user=MOdzEmYAAAAJ&hl=en), 2020 PhD graduation,  **Google**
           - [Wen-chuan Lee](https://scholar.google.com/citations?user=_E4rxnkAAAAJ&hl=en), 2019 PhD graduation,   **Senior Scientist at Apple** 
-          - [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/), 2019 PhD graduation,  **Assistant Professor at University Massachusetts Amherst**,  <span style="color:brown">NSF Career Awardee</span>.}, previously Assistant Professor at Rutgers University
-
-
-
-
-
-
-
-
-
+          - [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/), 2019 PhD graduation,  **Assistant Professor at University Massachusetts Amherst**,  <span style="color:brown">*NSF Career Awardee*</span>, previously Assistant Professor at Rutgers University
+          - [Yonghwi Kwon](https://yonghwi-kwon.github.io/), 2018 PhD graduation, **Assistant Professor at University of Maryland, College Park**, <span style="color:brown">*NSF Career Awardee*</span>, previously Assistant Professor at University of Virginia
+          - [Weihang Wang](https://weihang-wang.github.io/), 2018 PhD graduation, **Assistant Professor at University of Southern California**, <span style="color:brown">*NSF Career Awardee*</span>, previously  Assistant Professor at SUNY Buffalo
+          - [Jianjun Huang](https://hjjandy.github.io/), 2017 PhD graduation, Associate Professor at Renmin University (China)
+          - [Brendan Saltaformmagio](https://saltaformaggio.ece.gatech.edu/), 2017 PhD graduation (co-advised with Dongyan Xu), **Associate Professor at Georgia Tech**, Recipients of <span style="color:brown">*ACM SIGACT Distinguished Dissertation Award*</span> and <span style="color:brown">*NSF Career Award*</span>
+          - [Chung Hwan Kim](https://chungkim.io/),  2017 PhD graduation (co-advised with Dongyan Xu),  **Assistant Professor at UT Dallas**, previously NEC Labs 
+          - [Fei Peng](https://www.linkedin.com/in/fepeng), 2017 PhD graduation,  **Senior Manager at Apple**
+          - [Zhui Deng](https://www.linkedin.com/in/zhuideng), 2017 PhD graduation (co-advised with Dongyan Xu),  **Apple**
+          - [Kyuhyung Lee](https://kyuhlee.github.io/), 2014 PhD graduation (co-advised with Dongyan Xu), **Associate Professor at University of Georgia** 
+          - [Yunhui Zheng](https://www.linkedin.com/in/yunhui-zheng-26b48526), 2014 PhD graduation, **Co-founder and CTO of [Sec3](https://www.sec3.dev/)**, previously Research Staff at IBM TJ Watson 
+          - [Bao Tao](https://www.linkedin.com/in/tbao2011), 2014 PhD graduation,  **Lead of Engineering of Sec3 [Sec3](https://www.sec3.dev/)**, previously Google
+          - [William N. Sumner](https://www.cs.sfu.ca/~wsumner/), 2014 PhD graduation, **Associate Professor at Simon Fraser University**
+          - [Vinai Sundaram](http://www.vinaisundaram.com/), 2013 PhD graduation (co-advised with Patrick Eugster), **Co-founder and CEO OF SensorHound Innovations LLC** 
+          - [Dasarath Weeratunge](https://www.linkedin.com/in/dasarath-weeratunge-a52b50a6), 2012 PhD graduation (co-advised with Suresh Jagannathan), **Intel Lab** 
+          - [Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/), 2014 PhD graduation (co-advised with Dongyan Xu), **Distinguished Professor at Ohio State University**, previously UT Dallas, <span style="color:brown">*IEEE Fellow*</span>, <span style="color:brown">*NSF CAREER Award*</span> and <span style="color:brown">*AFOSR YIP Award*</span>
+          - Bin Xin, 2010, **Google**
+          - Mingwu Zhang, 2008 (co-advised with Sunil Prabhakar), **Microsoft** 
 
 
     design:
