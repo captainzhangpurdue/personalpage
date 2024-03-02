@@ -238,7 +238,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="soccer" resize_options="x300">}}
     design:
       columns: '1'
   - block: markdown
@@ -323,12 +323,12 @@ sections:
           - [Zhaogui Xu](https://zhaoguixu.github.io/), 2014-2016, **Senior Software Engineer at Ant Financial Tech** (China)
           - Zhifei Chen, 2015, **Assistant Professor at Nanjing University of Science and Technology** (China)
           - [Chang-Ai Sun](https://enscce.ustb.edu.cn/Teach/TeacherList/2020-06-03/55.html), 2014-2015, **Professor and Head of the Department of Computer Science and Technology** at University of Science and Technology Beijing (China)
-          - [Juan Zhai][Juan Zhai](https://people.cs.umass.edu/~juanzhai/?_gl=1*vzigbe*_gcl_au*MzM5NDM4Njk5LjE3MDkzOTc3MjA.*_ga*NzAyNDY2NDM0LjE3MDkzOTc3MTk.*_ga_21RLS0L7EB*MTcwOTQxMTk3OC4yLjEuMTcwOTQxMjAyNC4wLjAuMA..), 2014-2015, **Assistant Professor at University Massachusetts Amherst**
+          - [Juan Zhai](https://people.cs.umass.edu/~juanzhai/?_gl=1*vzigbe*_gcl_au*MzM5NDM4Njk5LjE3MDkzOTc3MjA.*_ga*NzAyNDY2NDM0LjE3MDkzOTc3MTk.*_ga_21RLS0L7EB*MTcwOTQxMTk3OC4yLjEuMTcwOTQxMjAyNC4wLjAuMA..), 2014-2015, **Assistant Professor at University Massachusetts Amherst**
           - [Hao Sun](https://no.linkedin.com/in/hao-sun-21a4b336), 2014, **Engineer at Alibaba**
-          - Wanying Ma, 2016-2017, previously a PhD student at Nanjing University (China)
-          - Zhenhao Tang, 2016-2017, previously a PhD student at Nanjing University (China)
+          - Wanying Ma, 2016-2017, previously PhD student at Nanjing University (China)
+          - Zhenhao Tang, 2016-2017, previously PhD student at Nanjing University (China)
           - [Yang Zhang](https://uzhangyang.github.io/), 2016-2018, **Professor at Hebei University of Sci. and Tech.** (China)
-          - [Yuan Zhuang], 2019-2020, PhD student at Nanjing University (China)
+          - Yuan Zhuang, 2019-2020, PhD student at Nanjing University (China)
     design:
       columns: '1'
   - block: collection
