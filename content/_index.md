@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 gallery_item:
   - album: soccer
-    image: intramural_champ.JPG
+    image: meizhong_cup.jpg
     caption: Purdue intramural champion (grad student and staff division)
     
 
