@@ -246,7 +246,7 @@ sections:
       title: Students, Post-docs, and Visiting Scholars
       subtitle: ''
       text: |2-
-        # Current Students
+        ## Current Students
           - [Guanhong Tao](https://www.cs.purdue.edu/homes/taog/) (expected 2024, on market :fire:)
           - [Zhiyuan Cheng](https://github.com/Bob-cheng) (expected 2024)
           - [Shengwei An](https://www.cs.purdue.edu/homes/an93/) (expected 2025)
@@ -270,8 +270,18 @@ sections:
           - Xiaolong Jin  
           - Jiasheng Jiang  
         ---
-        # Former Students
-          - Yapeng Ye, 2024 PhD, **Google**
+        ## Former Students
+          - [Yapeng Ye](https://www.cs.purdue.edu/homes/ye203/), 2024 PhD graduation, **Google**
+          - [I Luk Kim](https://yirugi.github.io/), 2023 PhD graduation, **Senior Computational Scientist at Purdue** 
+          - [Qiuling Xu](https://qiulingxu.github.io/), 2023 PhD graduation,  **Netflix** 
+          - [Yingqi Liu](https://naiyeleo.github.io/), 2023 PhD graduation,  **Research Scientist at Microsoft**
+          - [Hongjun Choi](https://hongjun9.github.io/), 2022 PhD graduation, **Assistant Professor at Daegu Gyeongbuk Institute of Science and Technology**
+          - [Fei Wang](https://scholar.google.com/citations?user=5Z_irhQAAAAJ&hl=en),  2021 PhD graduation,  **Research Scientist at Meta**
+          - [Dohyeong Kim](https://scholar.google.com/citations?user=MOdzEmYAAAAJ&hl=en), 2020 PhD graduation,  **Google**
+          - [Wen-chuan Lee](https://scholar.google.com/citations?user=_E4rxnkAAAAJ&hl=en), 2019 PhD graduation,   **Senior Scientist at Apple** 
+          - [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/), 2019 PhD graduation,  **Assistant Professor at University Massachusetts Amherst**,  <span style="color:brown">NSF Career Awardee</span>.}, previously Assistant Professor at Rutgers University
+
+
 
 
 
