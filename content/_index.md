@@ -236,11 +236,16 @@ sections:
   - block: markdown
     id: personal
     content:
-      title: Gallery
+      title: Personal
       subtitle: ''
       text: |2-
-        I love playing soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
-        {{< gallery album="soccer" resize_options="300x300">}}
+        ## I love playing soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
+        {{< gallery album="soccer" resize_options="300x300">}}<br>
+    gallery_item:
+      - album: soccer
+        image: intramural_champ.JPG
+        caption: Purdue intramural champion (grad student and staff division)
+    
     design:
       columns: '1'
   - block: markdown
