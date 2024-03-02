@@ -234,11 +234,13 @@ sections:
       flip_alt_rows: false
       
   - block: markdown
+    id: personal
     content:
       title: Gallery
       subtitle: ''
-      text: |-
-        {{< gallery album="soccer" resize_options="x300">}}
+      text: |2-
+        I love playing soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
+        {{< gallery album="soccer" resize_options="300x300">}}
     design:
       columns: '1'
   - block: markdown
