@@ -242,8 +242,9 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: students
     content:
-      title: Students, Post-docs, and Visiting Scholars
+      title: Rearch Group
       subtitle: ''
       text: |2-
         ---
@@ -305,7 +306,29 @@ sections:
           - [Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/), 2014 PhD graduation (co-advised with Dongyan Xu), **Distinguished Professor at Ohio State University**, previously UT Dallas, <span style="color:brown">*IEEE Fellow*</span>, <span style="color:brown">*NSF CAREER Award*</span> and <span style="color:brown">*AFOSR YIP Award*</span>
           - Bin Xin, 2010, **Google**
           - Mingwu Zhang, 2008 (co-advised with Sunil Prabhakar), **Microsoft** 
-
+        ---
+        ## Former Postdocs
+          - [Qingkai Shi](https://qingkaishi.github.io/),  2022-2023, **Assistant Professor at Nanjing University, China** 
+          - [Hongyu Liu](https://liuhycs.github.io/), 2021-2022, **Gifted Young Researcher at HuaWei** 
+          - [Mijung Kim](https://mijungk.github.io/), 2020-2021,  **Assistant Professor at Ulsan National Institute of Science and Technology** (Korea) 
+          - [Yousra Aafer](https://cs.uwaterloo.ca/~yaafer/), 2019-2021,  **Assistant Professor at University of Waterloo** (Canada), <span style="color:brown">*Awardee of Discovery Grant*</span> by NSERC, similar to NSF Career in the US 
+          - [Juan Zhai](https://people.cs.umass.edu/~juanzhai/?_gl=1*vzigbe*_gcl_au*MzM5NDM4Njk5LjE3MDkzOTc3MjA.*_ga*NzAyNDY2NDM0LjE3MDkzOTc3MTk.*_ga_21RLS0L7EB*MTcwOTQxMTk3OC4yLjEuMTcwOTQxMjAyNC4wLjAuMA..), 2018-2019,  **Assistant Professor at University Massachusetts Amherst**, previously Professor of Practice at Rugters University, Assistant Professor at Nanjing University (China) 
+          - [Wei You](https://youwei1988.github.io/), 2019-2022,  **Associate Professor at Renmin University** (China), recipient of <span style="color:brown">*Excellent Young Scientists Overseas*</span>
+          - [Peng Liu](https://sites.google.com/site/lpxzpurdue/),  2014-2015, **Research Scientist at Uber**, previously Google and IBM TJ Watson
+          - [Zhiyong Shan](https://www.wichita.edu/profiles/academics/engineering/SoC/01_Faculty/Shan-Zhiyong.php), 2012-2013, **Assocaite Professor at Wichita State University** 
+        ---
+        ## Former Visitors (incomplete list)
+          - [Lei Xu](https://cs.nju.edu.cn/xulei/index.htm), 2013-2014, **Associate Professor at Nanjing University** (China)
+          - [Lin Chen](https://cs.nju.edu.cn/chenlin/index.htm), 2013-2014, **Associate Professor at Nanjing University** (China)
+          - [Zhaogui Xu](https://zhaoguixu.github.io/), 2014-2016, **Senior Software Engineer at Ant Financial Tech** (China)
+          - Zhifei Chen, 2015, **Assistant Professor at Nanjing University of Science and Technology** (China)
+          - [Chang-Ai Sun](https://enscce.ustb.edu.cn/Teach/TeacherList/2020-06-03/55.html), 2014-2015, **Professor and Head of the Department of Computer Science and Technology** at University of Science and Technology Beijing (China)
+          - [Juan Zhai][Juan Zhai](https://people.cs.umass.edu/~juanzhai/?_gl=1*vzigbe*_gcl_au*MzM5NDM4Njk5LjE3MDkzOTc3MjA.*_ga*NzAyNDY2NDM0LjE3MDkzOTc3MTk.*_ga_21RLS0L7EB*MTcwOTQxMTk3OC4yLjEuMTcwOTQxMjAyNC4wLjAuMA..), 2014-2015, **Assistant Professor at University Massachusetts Amherst**
+          - [Hao Sun](https://no.linkedin.com/in/hao-sun-21a4b336), 2014, **Engineer at Alibaba**
+          - Wanying Ma, 2016-2017, previously a PhD student at Nanjing University (China)
+          - Zhenhao Tang, 2016-2017, previously a PhD student at Nanjing University (China)
+          - [Yang Zhang](https://uzhangyang.github.io/), 2016-2018, **Professor at Hebei University of Sci. and Tech.** (China)
+          - [Yuan Zhuang], 2019-2020, PhD student at Nanjing University (China)
     design:
       columns: '1'
   - block: collection

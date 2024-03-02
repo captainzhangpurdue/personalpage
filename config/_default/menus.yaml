@@ -16,8 +16,8 @@ main:
   - name: Publications
     url: '#featured'
     weight: 30
-  - name: Students
-    url: '#students'
+  - name: Research Group
+    url: '#group'
     weight: 40
   - name: Teaching
     url: '#teaching'
