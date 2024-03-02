@@ -243,7 +243,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: Gallery
+      title: Students, Post-docs, and Visiting Scholars
       subtitle: ''
       text: |2-
         # Current Students
@@ -269,13 +269,9 @@ sections:
           - Syed Yusuf Ahmed 
           - Xiaolong Jin  
           - Jiasheng Jiang  
-          
-
-
-
-
-
-
+        ---
+        # Former Students
+          - Yapeng Ye, 2024 PhD, **Google**
 
 
 
