@@ -246,6 +246,7 @@ sections:
       title: Students, Post-docs, and Visiting Scholars
       subtitle: ''
       text: |2-
+        ---
         ## Current Students
           - [Guanhong Tao](https://www.cs.purdue.edu/homes/taog/) (expected 2024, on market :fire:)
           - [Zhiyuan Cheng](https://github.com/Bob-cheng) (expected 2024)
@@ -270,6 +271,14 @@ sections:
           - Xiaolong Jin  
           - Jiasheng Jiang  
         ---
+        ## Current Postdocs
+          - [Zhuo Zhang](https://www.cs.purdue.edu/homes/zhan3299/), previously PhD from Purdue
+          - [Stephen Wang](https://wcphkust.github.io/), previously PhD from HKUST
+        ---
+          ## Current Visitors
+          - [Wuqi Zhang](https://troublor.xyz/), PhD student from HKUST
+          - [Junmin Zhu](https://1chig0.github.io/), previously MS from SJTU
+        ---
         ## Former Students
           - [Yapeng Ye](https://www.cs.purdue.edu/homes/ye203/), 2024 PhD graduation, **Google**
           - [I Luk Kim](https://yirugi.github.io/), 2023 PhD graduation, **Senior Computational Scientist at Purdue** 
@@ -279,7 +288,7 @@ sections:
           - [Fei Wang](https://scholar.google.com/citations?user=5Z_irhQAAAAJ&hl=en),  2021 PhD graduation,  **Research Scientist at Meta**
           - [Dohyeong Kim](https://scholar.google.com/citations?user=MOdzEmYAAAAJ&hl=en), 2020 PhD graduation,  **Google**
           - [Wen-chuan Lee](https://scholar.google.com/citations?user=_E4rxnkAAAAJ&hl=en), 2019 PhD graduation,   **Senior Scientist at Apple** 
-          - [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/), 2019 PhD graduation,  **Assistant Professor at University Massachusetts Amherst**,  <span style="color:brown">*NSF Career Awardee*</span>, previously Assistant Professor at Rutgers University
+          - [Shiqing Ma](https://people.cs.umass.edu/~shiqingma/), 2019 PhD graduation,  **Assistant Professor at University of Massachusetts, Amherst**,  <span style="color:brown">*NSF Career Awardee*</span>, previously Assistant Professor at Rutgers University
           - [Yonghwi Kwon](https://yonghwi-kwon.github.io/), 2018 PhD graduation, **Assistant Professor at University of Maryland, College Park**, <span style="color:brown">*NSF Career Awardee*</span>, previously Assistant Professor at University of Virginia
           - [Weihang Wang](https://weihang-wang.github.io/), 2018 PhD graduation, **Assistant Professor at University of Southern California**, <span style="color:brown">*NSF Career Awardee*</span>, previously  Assistant Professor at SUNY Buffalo
           - [Jianjun Huang](https://hjjandy.github.io/), 2017 PhD graduation, Associate Professor at Renmin University (China)
@@ -296,7 +305,6 @@ sections:
           - [Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/), 2014 PhD graduation (co-advised with Dongyan Xu), **Distinguished Professor at Ohio State University**, previously UT Dallas, <span style="color:brown">*IEEE Fellow*</span>, <span style="color:brown">*NSF CAREER Award*</span> and <span style="color:brown">*AFOSR YIP Award*</span>
           - Bin Xin, 2010, **Google**
           - Mingwu Zhang, 2008 (co-advised with Sunil Prabhakar), **Microsoft** 
-
 
     design:
       columns: '1'
