@@ -44,7 +44,7 @@ gallery_item:
     image: barrier_reef.jpg
     caption: Great Barrier Reef, Australia
   - album: diving
-    image: sea_cucumber_barrier_reef.jpg
+    image: sea_cucumba_barrier_reef.jpg
     caption: Sea Cucumber at Great Barrier Reef, Australia  
   - album: diving
     image: big_fish_malaysia.jpg
@@ -81,7 +81,7 @@ gallery_item:
     caption: Group kayaking at Wildcat Creek, IN
   - album: kayak
     image: sail.jpg
-    caption: Trying to sail on a Stand-up board. I am very bad at it and only know sailing straight.
+    caption: Trying to sail on a Stand-Up Board at Lake Harner, Lafayette. Only know how to sail straight.
   - album: hobby
     image: hobby.jpg
     caption: Ship model construction
@@ -324,12 +324,12 @@ sections:
       text: |2-
         ## I like soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
         {{< gallery album="soccer" resize_options="300x300">}}<br>
-        ## Scuba diving is addictive. I will go on a few scuba-diving trips every year. I often go to Cozumel, Mexico 
+        ## Scuba diving is addictive. I go on a few scuba-diving trips every year. I often go to Cozumel, Mexico 
         {{< gallery album="diving" resize_options="300x300">}}<br>
+        {{< video src="lionfish.mp4" controls="yes" >}}
         ## Our town has suprising good resources for kayaking, canoeing, and even sailing. 
         {{< gallery album="kayak" resize_options="300x300">}}<br>
-        ## I spend some time on hobbies when possible. 
-        {{< gallery album="hobby" resize_options="300x300">}}<br>
+        
     design:
       columns: '1'
   - block: markdown
