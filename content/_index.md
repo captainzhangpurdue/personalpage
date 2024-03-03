@@ -323,7 +323,7 @@ sections:
       subtitle: ''
       text: |2-
         ## I like soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
-        {{< gallery album="soccer" resize_options="300x300">}}<br>
+        {{< gallery album="soccer" resize_options="250x250">}}<br>
         ## Scuba diving is addictive. I go on a few scuba-diving trips every year. I often go to Cozumel, Mexico 
         {{< gallery album="diving" resize_options="300x300">}}<br>
         {{< video src="lionfish.mp4" controls="yes" >}}
