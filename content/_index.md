@@ -21,7 +21,7 @@ gallery_item:
     caption: Midwest Chinese soccer tournament at Chicago, Runner-up with Purdue Chinese Football Club  (PCFC)
   - album: soccer
     image: red_army_with_duwei.jpg
-    caption: Chinese soccer US tournament 40+ age group at Las Vegas. Team photo with the former Chinese National Soccer Team Captain Wei Du (the tallest player in blue)
+    caption: Chinese soccer tournament 40+ age group at Las Vegas. Team photo with the former Chinese National Soccer Team Captain Du Wei (the tallest player in blue)
   - album: soccer
     image: soccer_at_icse.jpg
     caption: Soccer at ICSE. Isn't it great that you can still play soccer when attending top-tier research conferences?
@@ -267,9 +267,8 @@ sections:
       subtitle: ''
       text: |2-
         ## I like soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
-        {{< gallery album="soccer" resize_options="300x300">}}<br>
-        ## Scuba diving is addictive. I will go on a few scuba-diving trips every year.  
         {{< gallery album="diving" resize_options="300x300">}}<br>
+        ## Scuba diving is addictive. I will go on a few scuba-diving trips every year.  
         
     design:
       columns: '1'
