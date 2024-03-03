@@ -5,8 +5,30 @@ date: 2022-10-24
 type: landing
 gallery_item:
   - album: soccer
-    image: meizhong_cup.jpg
+    image: intramual_champ.jpg
     caption: Purdue intramural champion (grad student and staff division)
+  - album: soccer
+    image: kids_soccer_1.jpg
+    caption: I had coached recreational kids soccer for many years
+  - album: soccer
+    image: legacy_champ_chinese.jpg
+    caption: Local league champion with Purdue Chinese Football Club (PCFC)
+  - album: soccer
+    image: legacy_champ.jpg
+    caption: Local league champion 
+  - album: soccer
+    image: meizhong_cup.jpg
+    caption: Midwest Chinese soccer tournament at Chicago, Runner-up with Purdue Chinese Football Club  (PCFC)
+  - album: soccer
+    image: red_army_with_duwei.jpg
+    caption: Chinese soccer US tournament 40+ age group at Las Vegas. Team photo with the former Chinese National Soccer Team Captain Wei Du (the tallest player in blue)
+  - album: soccer
+    image: soccer_at_icse.jpg
+    caption: Soccer at ICSE. Isn't it great that you can still play soccer when attending top-tier research conferences?
+    
+  
+  
+  
     
 
 sections:
@@ -244,8 +266,11 @@ sections:
       title: Personal
       subtitle: ''
       text: |2-
-        ## I love playing soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
-        {{< gallery album="soccer" resize_options="300x300">}}<br>
+        ## I like soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
+        {{< gallery album="soccer" resize_options="200x200">}}<br>
+        {{<youtube 7EqmU5GeP6I?si=ywahQqGaEE7rHluc&amp;clip=UgkxiZluBv2rO92gqenmyiPnHPicSqCEPMyR&amp;clipt=EIDpcxjIgHU>}}
+        ## Scuba diving is addictive. I will go on a few scuba-diving trips every year.  
+        {{< gallery album="diving" resize_options="200x200">}}<br>
     
     design:
       columns: '1'
