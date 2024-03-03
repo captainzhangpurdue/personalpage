@@ -268,7 +268,7 @@ sections:
       text: |2-
         ## I like soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
         {{< gallery album="soccer" resize_options="200x200">}}<br>
-        {{<youtube 7EqmU5GeP6I?si=ywahQqGaEE7rHluc&amp;clip=UgkxiZluBv2rO92gqenmyiPnHPicSqCEPMyR&amp;clipt=EIDpcxjIgHU>}}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/7EqmU5GeP6I?si=ywahQqGaEE7rHluc&amp;clip=UgkxiZluBv2rO92gqenmyiPnHPicSqCEPMyR&amp;clipt=EIDpcxjIgHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         ## Scuba diving is addictive. I will go on a few scuba-diving trips every year.  
         {{< gallery album="diving" resize_options="200x200">}}<br>
     
