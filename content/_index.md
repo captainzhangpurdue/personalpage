@@ -25,11 +25,67 @@ gallery_item:
   - album: soccer
     image: soccer_at_icse.jpg
     caption: Soccer at ICSE. Isn't it great that you can still play soccer when attending top-tier research conferences?
-    
+  - album: diving
+    image: barrier_reef_1.jpg
+    caption: Great Barrier Reef, Australia
+  - album: diving
+    image: barrier_reef_2.jpg
+    caption: Great Barrier Reef, Australia  
+  - album: diving
+    image: barrier_reef_3.jpg
+    caption: Great Barrier Reef, Australia
+  - album: diving
+    image: barrier_reef_4.jpg
+    caption: Great Barrier Reef, Australia
+  - album: diving
+    image: barrier_reef_5.jpg
+    caption: Great Barrier Reef, Australia
+  - album: diving
+    image: barrier_reef.jpg
+    caption: Great Barrier Reef, Australia
+  - album: diving
+    image: sea_cucumber_barrier_reef.jpg
+    caption: Sea Cucumber at Great Barrier Reef, Australia  
+  - album: diving
+    image: big_fish_malaysia.jpg
+    caption: Humbhead Parrotfish at Sipadan, Malaysia
+  - album: diving
+    image: nemo_malaysia.jpg
+    caption: Nemo at Sipadan, Malaysia
+  - album: diving
+    image: shark_malaysia.jpg
+    caption: Shark at Sipadan, Malaysia
+  - album: diving
+    image: stone_fish_malaysia.jpg
+    caption: Stone Fish at Sipadan, Malaysia
+  - album: diving
+    image: cozumel_flounder.jpg
+    caption: Flounder at Cozumel, Mexico
+  - album: diving
+    image: cozumel_seaturtle.jpg
+    caption: Taping sea turtle at Cozumel, Mexico
+  - album: diving
+    image: cozumel_selfie.jpg
+    caption: Having a selfie with lobsters at Cozumel, Mexico
+  - album: diving
+    image: lobster_cozumel.jpg
+    caption: Lobster at Cozumel, Mexico
+  - album: kayak
+    image: group_kayak.jpg
+    caption: Group picture before kayaking at Wildcat Creek, IN
+  - album: kayak
+    image: group_kayak_river.jpg
+    caption: Group kayaking at Wildcat Creek, IN
+  - album: kayak
+    image: group_kayak1.jpg
+    caption: Group kayaking at Wildcat Creek, IN
+  - album: kayak
+    image: sail.jpg
+    caption: Trying to sail on a Stand-up board. I am very bad at it and only know sailing straight.
+  - album: hobby
+    image: hobby.jpg
+    caption: Ship model construction
   
-  
-  
-    
 
 sections:
   - block: hero
@@ -268,9 +324,12 @@ sections:
       text: |2-
         ## I like soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
         {{< gallery album="soccer" resize_options="300x300">}}<br>
-        ## Scuba diving is addictive. I will go on a few scuba-diving trips every year.  
+        ## Scuba diving is addictive. I will go on a few scuba-diving trips every year. I often go to Cozumel, Mexico 
         {{< gallery album="diving" resize_options="300x300">}}<br>
-        
+        ## Our town has suprising good resources for kayaking, canoeing, and even sailing. 
+        {{< gallery album="kayak" resize_options="300x300">}}<br>
+        ## I spend some time on hobbies when possible. 
+        {{< gallery album="hobby" resize_options="300x300">}}<br>
     design:
       columns: '1'
   - block: markdown
