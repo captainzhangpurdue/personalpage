@@ -269,8 +269,7 @@ sections:
         ## I like soccer. I play at least two times a week. I used to coach kids' soccer teams for many years. 
         {{< gallery album="soccer" resize_options="200x200">}}<br>
         ## Scuba diving is addictive. I will go on a few scuba-diving trips every year.  
-        {{< gallery album="diving" resize_options="200x200">}}<br>
-    
+        
     design:
       columns: '1'
   - block: markdown
