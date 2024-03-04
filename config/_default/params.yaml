@@ -43,7 +43,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    show_theme_chooser: false
+    #show_theme_chooser: false
     highlight_active_link: true
 
 # Site footer
