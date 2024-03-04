@@ -129,7 +129,7 @@ sections:
       background:
         image:
           # Name of image in `assets/media/`.
-          #filename: yellowbg.jpg
+          filename: yellowbg.jpg
           
           
           # Apply image filters?
