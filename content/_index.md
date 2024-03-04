@@ -361,7 +361,7 @@ sections:
          
     design:
       columns: '1'
-  - block: collection
+  - block: markdown
     id: featured
     content:
       title: Publications
