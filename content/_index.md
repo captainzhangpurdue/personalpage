@@ -380,15 +380,15 @@ sections:
       title: Teaching
       subtitle: ''
       text: |2-
-          - CS590 AI and Security in fall 2024
-          - CS307 Software Engineering in spring 2024
-          - CS510 Software Engineering in fall 2023
-          - CS240 C Programming in spring 2023
-          - CS510 Software Engineering in spring 2022
-          - CS307 Software Engineering in fall 2021
-          - CS240 C Programming in spring 2020.
-          - CS590 Program Analysis for Deep Learning in fall 2019.
-          - CS408 Software Testing in spring 2019. 
+        - CS590 AI and Security in fall 2024
+        - CS307 Software Engineering in spring 2024
+        - CS510 Software Engineering in fall 2023
+        - CS240 C Programming in spring 2023
+        - CS510 Software Engineering in spring 2022
+        - CS307 Software Engineering in fall 2021
+        - CS240 C Programming in spring 2020.
+        - CS590 Program Analysis for Deep Learning in fall 2019.
+        - CS408 Software Testing in spring 2019. 
     design:
       columns: '2'
         
