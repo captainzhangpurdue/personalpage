@@ -98,7 +98,7 @@ gallery_item:
 ### Night diving and lionfish hunting at Cozumel, Mexico. This is legal as lionfishes are invasive.
 {{< video src="lionfish.mp4" controls="yes" >}}
 ### Coral shrimp and lobster during night diving at Cozumel, Mexico. 
-{{< video src="shrimp_and_lobster.mp4" controls="yes" >}}
+{{< video src="shrimp.mp4" controls="yes" >}}
 ### Lobsters at Catalina Island, CA. 
 {{< video src="catalina.mp4" controls="yes" >}}
         

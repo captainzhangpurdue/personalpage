@@ -262,9 +262,9 @@ sections:
     design:
       columns: '2'
   - block: markdown
-    id: students
+    id: group
     content:
-      title: Rearch Group
+      title: Research Group
       subtitle: ''
       text: |2-
         ---
@@ -361,6 +361,7 @@ sections:
          
     design:
       columns: '1'
+  
   - block: markdown
     id: featured
     content:
@@ -373,6 +374,21 @@ sections:
     design:
       columns: '2'
       #view: citation
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      subtitle: ''
+      text: |2-
+        -CS590 AI and Security in fall 2024
+        -CS307 Software Engineering in spring 2024
+        -CS510 Software Engineering in fall 2023
+        -CS240 C Programming in spring 2023
+        -CS510 Software Engineering in spring 2022
+        -CS307 Software Engineering in fall 2021
+        -CS240 C Programming in spring 2020.
+        -CS590 Program Analysis for Deep Learning in fall 2019.
+        -CS408 Software Testing in spring 2019. 
   - block: contact
     id: contact
     content:
