@@ -357,7 +357,8 @@ sections:
       title: Personal
       subtitle: ''
       text: |2-
-        I like playing soccer. I play twice a week. I used to coach kids soccer for many years. I also like scuba diving and all sorts of water sports. More can be found [here]{personal/index.html} 
+        I like playing soccer. I play twice a week. I used to coach kids soccer for many years. I also like scuba diving and all sorts of water sports. More can be found [A post]({{< relref "/personal/index.html" >}})
+         
     design:
       columns: '1'
   - block: collection
