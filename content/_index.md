@@ -135,11 +135,11 @@ sections:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
           #  brightness: 1
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-          size: contain
+          size: cover
           # Image focal point. Options include `left`, `center` (default), or `right`.
           position: center
           # Use a fun parallax-like fixed background effect on desktop? true/false
-          parallax: true
+          parallax: false
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
   #- block: skills
@@ -380,15 +380,18 @@ sections:
       title: Teaching
       subtitle: ''
       text: |2-
-        -CS590 AI and Security in fall 2024
-        -CS307 Software Engineering in spring 2024
-        -CS510 Software Engineering in fall 2023
-        -CS240 C Programming in spring 2023
-        -CS510 Software Engineering in spring 2022
-        -CS307 Software Engineering in fall 2021
-        -CS240 C Programming in spring 2020.
-        -CS590 Program Analysis for Deep Learning in fall 2019.
-        -CS408 Software Testing in spring 2019. 
+          -CS590 AI and Security in fall 2024
+          -CS307 Software Engineering in spring 2024
+          -CS510 Software Engineering in fall 2023
+          -CS240 C Programming in spring 2023
+          -CS510 Software Engineering in spring 2022
+          -CS307 Software Engineering in fall 2021
+          -CS240 C Programming in spring 2020.
+          -CS590 Program Analysis for Deep Learning in fall 2019.
+          -CS408 Software Testing in spring 2019. 
+    design:
+      columns: '2'
+        
   - block: contact
     id: contact
     content:
