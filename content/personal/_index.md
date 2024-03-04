@@ -92,10 +92,12 @@ gallery_item:
 
 ## Scuba diving is addictive. I go on a few scuba-diving trips every year. I often go to Cozumel, Mexico 
 {{< gallery album="diving" resize_options="300x300">}}<br>
-### Night dive and lionfish hunting at Cozumel, Mexico. This is legal as lionfishes are invasive.
+### Night diving and lionfish hunting at Cozumel, Mexico. This is legal as lionfishes are invasive.
 {{< video src="lionfish.mp4" controls="yes" >}}
-### Night dive and lionfish hunting at Cozumel, Mexico. This is legal as lionfishes are invasive.
-{{< video src="lionfish.mp4" controls="yes" >}}
+### Coral shrimp and lobster during night diving at Cozumel, Mexico. 
+{{< video src="shrimp_and_lobster.mp4" controls="yes" >}}
+### Lobsters at Catalina Island, CA. 
+{{< video src="catalina.mp4" controls="yes" >}}
         
 ## Our town has suprising good resources for kayaking, canoeing, and even sailing. 
 {{< gallery album="kayak" resize_options="300x300">}}<br>

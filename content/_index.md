@@ -357,7 +357,7 @@ sections:
       title: Personal
       subtitle: ''
       text: |2-
-        I like playing soccer. I play twice a week. I used to coach kids soccer for many years. I also like scuba diving and all sorts of water sports. More can be found [A post]({{< relref "/personal/index.html" >}})
+        I like playing soccer. I play twice a week. I used to coach kids soccer for many years. I also like scuba diving and all sorts of water sports. More can be found [here]({{< relref "/personal/index.html" >}})
          
     design:
       columns: '1'
@@ -367,7 +367,7 @@ sections:
       title: Publications
       text: |-
         {{% callout note %}}
-        Please refer to either my DBLP page or Google Scholar page.
+        Please refer to either my [DBLP page](https://dblp.org/pid/95/3760-1.html) or [Google Scholar page](https://scholar.google.com/citations?hl=en&user=PXbu1wIAAAAJ).
         {{% /callout %}}
       
     design:
@@ -377,51 +377,23 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: xyzhang at cs dot purdue dot edu
+      phone: 765-496-9415
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: LAWSON 3154K, 305 N. University Street
+        city: West Lafayette
+        region: IN
+        postcode: '47907'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday 12:30 to 13:30'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      
     design:
       columns: '2'
 ---
