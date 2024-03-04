@@ -11,8 +11,9 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  color: rose
-  
+  #color: rose
+
+color: rose 
 
 # SEO
 
